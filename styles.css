@@ -11,6 +11,10 @@
   
     --ff-accent: "Podkova", serif;
     --ff-base: "Open Sans", sans-serif;
+
+    --fs-700: 2.25rem;
+    --fs-400: 1rem;
+    --fs-200: .75rem;
   
     --fw-400: 400;
     --fw-700: 700;
@@ -41,8 +45,7 @@
   
   
   /* /////////////////
-     Layout related
-     no need to touch any of this
+     Layout 
   //////////////////*/
   
   .candidates {
